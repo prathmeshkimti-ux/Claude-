@@ -1,0 +1,7 @@
+
+# acquisition runtime data
+acquisition/data/*.db
+acquisition/data/outbox/
+__pycache__/
+*.pyc
+.pytest_cache/
